@@ -1,0 +1,5 @@
+package com.osmanowski.orderservice.repository;
+
+public interface OrderRepository {
+
+}
