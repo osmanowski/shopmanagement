@@ -1,5 +1,0 @@
-package com.osmanowski.orderservice.dto;
-
-public class OrderRequest {
-
-}
